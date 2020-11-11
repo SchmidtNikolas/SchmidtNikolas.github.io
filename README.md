@@ -19,6 +19,8 @@ Below are links to some of my projects and a bit of background about them. A lot
   * An article I co-authored in my grad program, this piece describes developments in Blockchain in recent years and how these can be implemented to better information systems in any domain.
 * [LRP Geospatial Site](https://geospatial-lrp.usace.army.mil/)
   * With the US Army Corps of Engineers, I've developed several websites. Though most are internal to the Corps, this one is available to the general public and shows some of the projects the Corps works on and some [really cool web maps](https://geospatial-lrp.usace.army.mil/Berlin.htm) I designed.
+* [GitHub License Analysis](https://github-license-analysis.herokuapp.com/)
+	* A small website I made for an undergrad class on copyright law, this page details some of the different licenses available by default for projects on GitHub, my understanding of those licenses, and how putting forth default options can impact a developer's ownership of their independent projects.
 
 ## Skills (In no particular order)
 * Java
