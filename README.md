@@ -7,6 +7,10 @@
 ## Background
 I'm a programmer and software developer from Pittsburgh, PA. I've been coding for 10+ years, and I've worked with many different prominent languages for projects, including Java, Python, JavaScript (Both in-browser and Node.js), C/C++, R, Perl, HTML/CSS, SQL, Batch and Shell scripts, and more. I've studied algorithms, machine learning, artificial intelligence, and more. I really enjoy working on projects that produce some sort of tangible result, like webpages and applications, so that I can immediately see the results of my work, or bugs and errors as it sometimes happens to be.
 
+## Education
+* M.Sc. Computer Science, Duquesne University, Pittsburgh PA (2019-2020)
+* B.Sc. Computer Science, Duquesne University, Pittsburgh PA (2015-2019)
+
 ## Projects
 Below are links to some of my projects and a bit of background about them. A lot of my projects have pertained to academic work, so I keep the repositories private to prevent other students from copying-and-pasting my solutions.
 * [XKCD Recommender](https://xkcd-recommender.herokuapp.com/)
