@@ -1,5 +1,7 @@
-theme: jekyll-theme-minimal
 baseurl: /SchmidtNikolas.github.io
 title: Nikolas Schmidt
 description: My Resume, Profile, and Portfolio
 show_downloads: false
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
