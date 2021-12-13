@@ -2,7 +2,7 @@
 #### Masters Student, Software Developer, Geographer
 ##### [Email](mailto:schmidtnikolas63@gmail.com) | [724-884-7999](tel:724-884-7999)
 
-## [Resume](SchmidtNikolas.github.io/pdfs/Resume.pdf)
+## [Resume](https://schmidtnikolas.github.io/pdfs/Resume.pdf)
 
 ## Background
 I'm a programmer and software developer from Pittsburgh, PA. I've been coding for 10+ years, and I've worked with many different prominent languages for projects, including Java, Python, JavaScript (Both in-browser and Node.js), C/C++, R, Perl, HTML/CSS, SQL, Batch and Shell scripts, and more. I've studied algorithms, machine learning, artificial intelligence, and more. I really enjoy working on projects that produce some sort of tangible result, like webpages and applications, so that I can immediately see the results of my work, or bugs and errors as it sometimes happens to be.
