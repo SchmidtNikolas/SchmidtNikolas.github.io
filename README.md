@@ -1,5 +1,5 @@
 ## Nikolas Schmidt
-#### Masters Student, Software Developer, Geographer
+#### Software Developer 2, General Dynamics Mission Systems
 ##### [Email](mailto:schmidtnikolas63@gmail.com) | [724-884-7999](tel:724-884-7999)
 
 ## [Resume](https://schmidtnikolas.github.io/pdfs/Resume.pdf)
@@ -23,9 +23,11 @@ Below are links to some of my projects and a bit of background about them. A lot
   * An article I co-authored in my grad program, this piece describes developments in Blockchain in recent years and how these can be implemented to better information systems in any domain.
 * [LRP Geospatial Site](https://geospatial-lrp.usace.army.mil/)
   * With the US Army Corps of Engineers, I've developed several websites. Though most are internal to the Corps, this one is available to the general public and shows some of the projects the Corps works on and some [really cool web maps](https://geospatial-lrp.usace.army.mil/Berlin.htm) I designed.
-    * Site has been taken down since leaving the Corps. Leaving the links anyway.	
+    * Site has been taken down since leaving the Corps. Leaving the links anyway.
 * [GitHub License Analysis](https://github-license-analysis.herokuapp.com/)
 	* A small website I made for an undergrad class on copyright law, this page details some of the different licenses available by default for projects on GitHub, my understanding of those licenses, and how putting forth default options can impact a developer's ownership of their independent projects.
+* [*Are We There Yet*](https://ccdigitalpress.org/book/arewethereyet/)
+	* This project was in collaboration with authors [James Purdy and Jennifer Marlow](https://ccdigitalpress.org/book/arewethereyet/authors/), discussing *The History Book* and trends in teaching and technology over the years. Written and developed throughout my time in both undergrad and grad school at Duquesne University, I was the sole developer and designer of the project, working with the authors to bring their vision to life.
 
 ## Skills (In no particular order)
 * Java
@@ -42,10 +44,12 @@ Below are links to some of my projects and a bit of background about them. A lot
 * AWS
 * R
 * Perl
+* MATLAB
 * Machine Learning
 * Natural Language Processing
 * Android Development/Android Studio
 * Docker
+* Splunk
 * Netlify
 * Gatsby
 * Linux Kernel Modification
