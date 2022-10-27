@@ -1,5 +1,5 @@
 ## Nikolas Schmidt
-#### Software Developer 2, General Dynamics Mission Systems
+#### Web Developer, Neya Systems
 ##### [Email](mailto:schmidtnikolas63@gmail.com) | [724-884-7999](tel:724-884-7999)
 
 ## [Resume](https://schmidtnikolas.github.io/pdfs/Resume.pdf)
