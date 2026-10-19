@@ -17,7 +17,7 @@ Below are links to some of my projects and a bit of background about them.
 * [WUBRG](http://www.mathcs.duq.edu/~jackson/StudentWork/SchmidtPaperFinal.pdf)
 	* My final project in undergrad was a full-stack web application using Django. The site has been turned offline due to the cost of keeping it available, but the paper describing it is linked to here.
 * [*A Survey on Blockchain for Information Systems Management and Security*](https://doi.org/10.1016/j.ipm.2020.102397)
-  	* An article I co-authored in my grad program, this piece describes developments in Blockchain in recent years and how these can be implemented to better information systems in any domain.
+	* An article I co-authored in my grad program, this piece describes developments in Blockchain in recent years and how these can be implemented to better information systems in any domain.
 * [*A Survey on Edge Intelligence and Lightweight Machine Learning Support for Future Applications and Services*](https://doi.org/10.1145/3581759)
 	* Another article I co-authored in my grad program, this work focuses on approaches to enhancing edge computing and applications for furthering its use, covering opportunities for domain growth as well as algorithms which edge computing and edge intelligence can leverage.
 * [XKCD Recommender](https://xkcd-recommender.onrender.com)
